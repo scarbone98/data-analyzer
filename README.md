@@ -1,11 +1,11 @@
-How to run:
+# How to run
 
-# Backend
+## Backend
 cd backend
 npm install
 npm start
 
 
-#Frontend
+## Frontend
 npm install
 npm run dev
