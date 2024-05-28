@@ -10,4 +10,4 @@
 - npm install
 - npm run dev
 
-# NOTE: Missing features and styling as this was done in 1 day. Allows mobile and web support.
+## NOTE: Missing features and styling as this was done in 1 day. Allows mobile and web support.
